@@ -4,7 +4,7 @@
 #
 Name     : pytools
 Version  : 2018.5.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/90/6a/7b706e4730db0ee5724c677cceafcac1bc9710c61612442a689e7b0aa5c4/pytools-2018.5.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/90/6a/7b706e4730db0ee5724c677cceafcac1bc9710c61612442a689e7b0aa5c4/pytools-2018.5.2.tar.gz
 Summary  : A collection of tools for Python
