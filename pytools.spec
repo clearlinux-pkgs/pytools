@@ -4,7 +4,7 @@
 #
 Name     : pytools
 Version  : 2019.1.1
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/00/96/00416762a3eda8876a17d007df4a946f46b2e4ee1057e0b9714926472ef8/pytools-2019.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/00/96/00416762a3eda8876a17d007df4a946f46b2e4ee1057e0b9714926472ef8/pytools-2019.1.1.tar.gz
 Summary  : A collection of tools for Python
