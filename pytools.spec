@@ -4,7 +4,7 @@
 #
 Name     : pytools
 Version  : 2020.1
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/66/c7/88a4f8b6f0f78d0115ec3320861a0cc1f6daa3b67e97c3c2842c33f9c089/pytools-2020.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/66/c7/88a4f8b6f0f78d0115ec3320861a0cc1f6daa3b67e97c3c2842c33f9c089/pytools-2020.1.tar.gz
 Summary  : A collection of tools for Python
@@ -57,6 +57,7 @@ python components for the pytools package.
 Summary: python3 components for the pytools package.
 Group: Default
 Requires: python3-core
+Provides: pypi(pytools)
 
 %description python3
 python3 components for the pytools package.
@@ -71,7 +72,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1579111018
+export SOURCE_DATE_EPOCH=1583216437
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
