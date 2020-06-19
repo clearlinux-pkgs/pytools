@@ -1,5 +1,5 @@
 PKG_NAME := pytools
-URL = https://files.pythonhosted.org/packages/56/4c/a04ed1882ae0fd756b787be4d0f15d81c137952d83cf9b991bba0bbb54ba/pytools-2020.2.tar.gz
+URL = https://files.pythonhosted.org/packages/c3/e9/121659be6cd75549c7a316a20eb4c8a5d12dbf03c688ba744d2e1fd0d3cc/pytools-2020.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
